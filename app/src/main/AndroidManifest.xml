@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android_like0302">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/t301_cow"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Android_LiKe0302">
+        <activity
+            android:name=".chapter08.viewpage2.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".chapter08.fragment_tongxin.Fragment_mainac"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".practisehand.SqlData"
+            android:exported="true"></activity>
+        <activity
+            android:name=".diancai.SecondTask"
+            android:exported="true" />
+        <activity
+            android:name=".caijidan.firstTask"
+            android:exported="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".chapter08.recycleView.RecycleView_mainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".chapter08.huancunyuanli.huancun_mainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".chapter08.GridView_taobao_mainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".chapter08.GridView_MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".chapter08.C06_45_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".chapter08.C06_42_activity"
+            android:exported="true" />
+        <activity
+            android:name=".chapter08.C06_13"
+            android:exported="true" />
+        <activity
+            android:name=".chapter08.C06_11"
+            android:exported="true" />
+        <activity
+            android:name=".chapter08.C06_09"
+            android:exported="true" />
+        <activity
+            android:name=".chapter08.C06_07_XMLandXMLJavashixian"
+            android:exported="true" />
+        <activity
+            android:name=".chapter07.C05_33"
+            android:exported="true" />
+        <activity
+            android:name=".chapter07.C05_32_SQLhelper"
+            android:exported="true" />
+        <activity
+            android:name=".chapter07.C05_28_sqlitetext"
+            android:exported="true" />
+        <activity
+            android:name=".chapter04.C02_39"
+            android:exported="false" />
+        <activity
+            android:name=".chapter04.C02_38_Task06"
+            android:exported="false" />
+        <activity
+            android:name=".chapter04.C02_34_Practise05"
+            android:exported="false" />
+        <activity
+            android:name=".chapter04.C02_32_Task05"
+            android:exported="false" />
+        <activity
+            android:name=".chapter04.C02_29_game"
+            android:exported="false" />
+        <activity
+            android:name=".chapter04.C02_27"
+            android:exported="false" />
+        <activity
+            android:name=".chapter04.C02_20_Practise03"
+            android:exported="false" />
+        <activity
+            android:name=".chapter04.C02_13_lefts"
+            android:exported="false" />
+        <activity
+            android:name=".chapter04.C02_09"
+            android:exported="false" />
+        <activity
+            android:name=".chapter04.C02_04_tangpoem"
+            android:exported="false" />
+        <activity
+            android:name=".chapter07.C05_19_Practise02"
+            android:exported="false" />
+        <activity
+            android:name=".chapter07.C05_16_Task02"
+            android:exported="true" />
+        <activity
+            android:name=".chapter07.c05_22_Practise03"
+            android:exported="true" />
+        <activity
+            android:name=".chapter07.C05_21_Task03"
+            android:exported="true" />
+        <activity
+            android:name=".chapter07.C05_14"
+            android:exported="false" />
+        <activity
+            android:name=".chapter07.C05_08"
+            android:exported="true" />
+        <activity
+            android:name=".chapter07.C05_06_Task01"
+            android:exported="true" />
+        <activity
+            android:name=".chapter06.life_circle_text"
+            android:exported="true" />
+        <activity
+            android:name=".chapter05.C03_25_task3"
+            android:exported="true" />
+        <activity
+            android:name=".chapter05.gestureCase"
+            android:exported="true" />
+        <activity
+            android:name=".chapter05.C03_17_task2"
+            android:exported="true" />
+        <activity
+            android:name=".chapter05.C03_31_Practise04"
+            android:exported="true" />
+        <activity
+            android:name=".chapter05.C03_30_task4"
+            android:exported="true" />
+        <activity
+            android:name=".chapter05.C03_28_password"
+            android:exported="true" />
+        <activity
+            android:name=".chapter05.C03_05_task2"
+            android:exported="true" />
+        <activity
+            android:name=".chapter05.DialogPractise"
+            android:exported="true" />
+        <activity
+            android:name=".chapter05.C03_05_Practise01"
+            android:exported="true" />
+        <activity
+            android:name=".chapter05.C03_05_Practise01_waibu"
+            android:exported="true" />
+        <activity
+            android:name=".chapter05.C03_05_task1"
+            android:exported="true" />
+        <activity
+            android:name=".chapter06.C04_39"
+            android:exported="true" />
+        <activity
+            android:name=".chapter06.C04_38"
+            android:exported="true" />
+        <activity
+            android:name=".chapter06.C04_33"
+            android:exported="true" />
+        <activity
+            android:name=".chapter06.C04_32_page02"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="LIKE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".chapter06.C04_32_page01"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

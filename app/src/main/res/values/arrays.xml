@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sushe">
+        <item>一号床</item>
+        <item>二号床></item>
+        <item>三号床</item>
+        <item>四号床</item>
+        <item>五号床</item>
+        <item>六号床</item>
+    </string-array>
+</resources>

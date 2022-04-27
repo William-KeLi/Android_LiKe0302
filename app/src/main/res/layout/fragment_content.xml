@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chapter08.fragment_tongxin.ContentFragment"
+    android:orientation="vertical">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView34"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitStart"
+                android:adjustViewBounds="true"
+                android:maxHeight="500dp"
+                android:src="@drawable/t603_img01" />
+
+            <TextView
+                android:id="@+id/fgtongxin_tvname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="小欢喜"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:id="@+id/fgtongxin_rating"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="评分：8.4"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:id="@+id/fgtongxin_introd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="剧情简介："
+                android:textSize="20sp"
+                android:layout_marginTop="10dp"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

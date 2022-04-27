@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chapter04.C02_38_Task06"
+    android:foreground="@drawable/t203_leaf"
+    android:foregroundGravity="top|left">
+
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="300dp"
+        android:layout_height="400dp"
+        android:text="控件一"
+        android:background="@color/purple_200"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="bottom|right"
+        android:padding="20dp"/>
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="250dp"
+        android:layout_height="350dp"
+        android:text="控件二"
+        android:background="@color/teal_200"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="bottom|right"
+        android:padding="20dp"/>
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="200dp"
+        android:layout_height="300dp"
+        android:text="控件三"
+        android:background="@color/purple_500"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="bottom|right"
+        android:padding="20dp"/>
+</FrameLayout>

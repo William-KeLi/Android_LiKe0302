@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/drawable/button_shape.xml" value="0.172" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0204_tangpoem.xml" value="0.25364583333333335" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0209.xml" value="0.25364583333333335" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0213_lefts.xml" value="0.25364583333333335" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0220_practise03.xml" value="0.264" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0227.xml" value="0.264" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0229_game.xml" value="0.25364583333333335" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0232_task05.xml" value="0.21240942028985507" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0234_practise05.xml" value="0.21240942028985507" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0238_task06.xml" value="0.21240942028985507" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0239.xml" value="0.21240942028985507" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0305_practise01.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0305_task1.xml" value="0.1" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0305_task2.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0317_task2.xml" value="0.264" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0325_task3.xml" value="0.25364583333333335" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0328_password.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0330_task4.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0331_practise04.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0332.xml" value="0.21240942028985507" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0432_page01.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0432_page02.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0433.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0434.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0439.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0506_task01.xml" value="0.2" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0508.xml" value="0.19479166666666667" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0514.xml" value="0.25364583333333335" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0516_task02.xml" value="0.25364583333333335" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0519_practise02.xml" value="0.25364583333333335" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0521_task03.xml" value="0.25364583333333335" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0522_practise03.xml" value="0.25364583333333335" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0528_sqlitetext.xml" value="0.264" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0532_sqlhelper.xml" value="0.21240942028985507" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0533.xml" value="0.264" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0607_xmlshixian.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0609.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0611.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0613.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0642.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_c0645.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_dialog_practise.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_first_task.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_fragment_mainac.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_gesture_case.xml" value="0.264" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_grid_view_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_grid_view_taobao_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_huancun_main.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_life_circle_text.xml" value="0.2" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_main2.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_my_dialog.xml" value="0.21240942028985507" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_recycle_view_main.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_recycleview_littleitem.xml" value="0.4" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_second_task.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/activity_sql_data.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/c06_45_dongtaif1.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/c06_45_dongtaif2.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/c06_45_dongtaif3.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/fragment_1.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/fragment_2.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/fragment_3.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/fragment_c06_42_f1.xml" value="0.176" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/fragment_c06_42_f2.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/fragment_c06_45_satticf1.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/fragment_content.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/fragment_name.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/gridview_littlebox.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/gridview_taobao_little_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/huancun_littleitem.xml" value="0.23052536231884058" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/little_table_2.xml" value="0.22826086956521738" />
+        <entry key="..\:/study/AndroidProgramDate/Android_LiKe0302/app/src/main/res/layout/littlie_buju.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
