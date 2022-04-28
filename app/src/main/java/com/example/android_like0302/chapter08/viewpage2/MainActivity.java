@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
+   //初始化数据页的方法
     private void initData() {
         datelist=new ArrayList<>();
         datelist.add(new Fragment1());
