@@ -16,7 +16,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Android_LiKe0302">
         <activity
-            android:name=".chapter09.MyProvider"
+            android:name=".chapter09.appshared.MyProvider"
             android:exported="false" />
         <activity
             android:name=".chapter08.viewpage2.MainActivity"
