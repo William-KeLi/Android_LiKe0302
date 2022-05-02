@@ -35,7 +35,7 @@ public class C05_06_Task01 extends AppCompatActivity implements View.OnClickList
     public void onClick(View v) {
         //创建SharedPreferences对象，存储数据
         SharedPreferences s1 =getSharedPreferences("C05_06_Task01",MODE_PRIVATE);
-        switch (v.getId()){//
+        switch (v.getId()){
             case R.id.buttoncunchu:
                 String name=username2.getText().toString().trim();
                 if (name.isEmpty()) {
