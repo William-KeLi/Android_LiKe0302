@@ -22,13 +22,13 @@ public class C05_06_Task01 extends AppCompatActivity implements View.OnClickList
         init();
   }
     private void init(){
-//        username2=(EditText) findViewById(R.id.et_uesrname2);
-//        buttoncunchu=(Button) findViewById(R.id.buttoncunchu);
-//        buttonduqu=(Button) findViewById(R.id.buttonduqu);
-//        buttonshuaxin=(Button) findViewById(R.id.buttonshuaxin);
-//        buttonshuaxin.setOnClickListener(this);
-//        buttonduqu.setOnClickListener(this);
-//        buttoncunchu.setOnClickListener(this);
+        username2=(EditText) findViewById(R.id.et_uesrname2);
+        buttoncunchu=(Button) findViewById(R.id.buttoncunchu);
+        buttonduqu=(Button) findViewById(R.id.buttonduqu);
+        buttonshuaxin=(Button) findViewById(R.id.buttonshuaxin);
+        buttonshuaxin.setOnClickListener(this);
+        buttonduqu.setOnClickListener(this);
+        buttoncunchu.setOnClickListener(this);
     }
 
     @Override

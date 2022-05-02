@@ -1,6 +1,5 @@
-package com.example.android_like0302.chapter06;
+package com.example.android_like0302.chapter06.c0432_task2;
 
-import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -23,7 +22,7 @@ public class C04_32_page01 extends AppCompatActivity {
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(C04_32_page01.this,C04_32_page02.class);
+                Intent intent = new Intent(C04_32_page01.this, C04_32_page02.class);
                 intent.setAction("LIKE");
                 startActivity(intent);
             }

@@ -16,11 +16,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Android_LiKe0302">
         <activity
-            android:name=".chapter09.appshared.MyProvider"
-            android:exported="false" />
-        <activity
-            android:name=".chapter08.viewpage2.MainActivity"
-            android:exported="true">
+            android:name=".chapter06.list"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -28,8 +25,29 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".chapter08.fragment_tongxin.Fragment_mainac"
+            android:name=".chapter06.c0418_task2.task2_page2"
+            android:exported="false" />
+        <activity
+            android:name=".chapter06.c0418_task2.task2_page1"
             android:exported="true"></activity>
+        <activity
+            android:name=".chapter06.practise01.practise_page2"
+            android:exported="false" />
+        <activity
+            android:name=".chapter06.practise01.practise_page1"
+            android:exported="true"></activity>
+        <activity
+            android:name=".chapter06.c0410_task1.page2"
+            android:exported="false" />
+        <activity
+            android:name=".chapter06.c0410_task1.page1"
+            android:exported="true" />
+        <activity
+            android:name=".chapter08.viewpage2.MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".chapter08.fragment_tongxin.Fragment_mainac"
+            android:exported="true" />
         <activity
             android:name=".practisehand.SqlData"
             android:exported="true" />
@@ -170,13 +188,15 @@
             android:name=".chapter06.C04_39"
             android:exported="true" />
         <activity
-            android:name=".chapter06.C04_38"
+            android:name=".chapter06.c0438_tak4.C04_38"
             android:exported="true" />
         <activity
-            android:name=".chapter06.C04_33"
-            android:exported="true" />
+            android:name=".chapter06.c0433_practise03.C04_33"
+            android:exported="true">
+
+        </activity>
         <activity
-            android:name=".chapter06.C04_32_page02"
+            android:name=".chapter06.c0432_task2.C04_32_page02"
             android:exported="false">
             <intent-filter>
                 <action android:name="LIKE" />
@@ -185,10 +205,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".chapter06.C04_32_page01"
-            android:exported="true" />
+            android:name=".chapter06.c0432_task2.C04_32_page01"
+            android:exported="true"></activity>
         <activity
             android:name=".MainActivity"
+            android:exported="true" />
+
+        <provider
+            android:name=".chapter09.appshared.MyProvider"
+            android:authorities="com.example.android_like0302.chapter09.appshared"
             android:exported="true" />
     </application>
 

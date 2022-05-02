@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chapter06">
+        <item>任务一，用户登录页面</item>
+        <item>任务二，话费充值和会员充值并回传结果</item>
+        <item>还是任务二，页面跳转并显示目标页面的ACTION</item>
+        <item>任务四，利用data和action完成发信息等操作</item>
+        <item>练习一，还是数据回传练习</item>
+        <item>练习三，ACTION和Category练习</item>
+        <item>练习四，通讯录</item>
+    </string-array>
+</resources>

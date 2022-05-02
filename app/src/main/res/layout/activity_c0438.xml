@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".chapter06.C04_38">
+    tools:context=".chapter06.c0438_tak4.C04_38">
 
     <Button
         android:id="@+id/button6"

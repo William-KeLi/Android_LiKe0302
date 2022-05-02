@@ -1,4 +1,4 @@
-package com.example.android_like0302.chapter06;
+package com.example.android_like0302.chapter06.c0433_practise03;
 
 import androidx.appcompat.app.AppCompatActivity;
 

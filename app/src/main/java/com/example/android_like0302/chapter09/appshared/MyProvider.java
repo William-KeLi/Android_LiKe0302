@@ -72,7 +72,17 @@ public class MyProvider extends ContentProvider {
 
                 //此步需要进行SQL语句的拼接，因为我们添加了一个ID，传统的查询只需要name来确定是哪一行，也就是（name=?,new String[]{"name"}）
                 //但是此方法传回来的selection不但包含name，还包含id，所以原本的query()中的形参 String where
+
+                long id=ContentUris.parseId(uri);
+                String where="_id = " +id;
+                if (selection!=null&&!selection.equals("")) {
+                    selection=selection+"and"+where;
+                }else {
+                    selection=where;
+                }
                 break;
+            default:
+                throw new IllegalArgumentException("无法识别的Uri"+uri);
         }
         Cursor cursor=db.query("user",//表名
                 projection,    //要查询出来的列名
@@ -112,6 +122,7 @@ public class MyProvider extends ContentProvider {
                 break;
             default:
                 //如果不是全表数据的Uri
+                throw new IllegalArgumentException("无法处理的Uri"+uri);
         }
         return null;
     }
@@ -123,8 +134,18 @@ public class MyProvider extends ContentProvider {
         int colum=0;
         switch (uriMatcher.match(uri)){
             case USER_CODE:
+                long id=ContentUris.parseId(uri);
+                String where="_id = "+id;
+
+                if (selection!=null&&!selection.equals("")) {
+                   selection=selection+"and"+where;
+                }else {
+                    selection=where;
+                }
+                colum=db.delete("user",selection,selectionArgs);
                 break;
             case USERS_CODE:
+                colum=db.delete("user",selection,selectionArgs);
                 break;
             default:
                 throw new IllegalArgumentException("无法识别的Uri"+uri);
@@ -136,15 +157,27 @@ public class MyProvider extends ContentProvider {
     //更新数据
     public int update(@NonNull Uri uri, @Nullable ContentValues values, @Nullable String selection, @Nullable String[] selectionArgs) {
         //记录所修改的列数
+        //记录所删除的列数
         int colum=0;
         switch (uriMatcher.match(uri)){
             case USER_CODE:
+                long id=ContentUris.parseId(uri);
+                String where="_id = "+id;
+
+                if (selection!=null&&!selection.equals("")) {
+                    selection=selection+"and"+where;
+                }else {
+                    selection=where;
+                }
+                colum=db.update("user",values,selection,selectionArgs);
                 break;
             case USERS_CODE:
+                colum=db.update("user",values,selection,selectionArgs);
                 break;
             default:
                 throw new IllegalArgumentException("无法识别的Uri"+uri);
         }
+
         //修改数据
         colum=db.update("user",values,selection,selectionArgs);
         //通知数据已经改变
